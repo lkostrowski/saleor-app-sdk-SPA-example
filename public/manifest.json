@@ -1,0 +1,10 @@
+{
+  "appUrl": "http://localhost:5173/",
+  "extensions": [],
+  "id": "saleor.app.spa-test",
+  "name": "App-sdk SPA test",
+  "permissions": [],
+  "tokenTargetUrl": "http://host.docker.internal:5173/register.json",
+  "version": "1.0.0",
+  "author": "Saleor Commerce"
+}
